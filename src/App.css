@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  height: 100vh;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+}
+
+.clothes{
+  border: 1px solid black;
+  background-color: rgb(218, 218, 218);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+  border-radius: 2px;
+  border: 1px solid gainsboro;
+}
+
+
+.options{
+  width: 500px;
+  border: 1px solid black;
+  background-color: rgb(218, 218, 218);;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+  border-radius: 2px;
+  border: 1px solid gainsboro;
+}
+
+.price {
+  padding: 0.5rem
+}
+
+.color-picker {
+  padding: 0.5rem;
+}
+
+.dropzone {
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  border: 1px dashed;
+}
+
+.text-container {
+
+  padding: 0.5rem
+}
+
+.logo-container{
+  padding: 0.5rem
+
+}
+
+@media (max-width: 500px){
+  .options{
+    width: 100vw;
+  }
+}
