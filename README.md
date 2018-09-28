@@ -13,14 +13,14 @@ Create your custom t-shirt
 
 ## Dependencies
 
--@material-ui/core
--konva
--react
--react-color
--react-dom
--react-dropzone
--react-konva
--react-scripts
--superagent
+- @material-ui/core
+- konva
+- react
+- react-color
+- react-dom
+- react-dropzone
+- react-konva
+- react-scripts
+- superagent
 
 ## Thank you
