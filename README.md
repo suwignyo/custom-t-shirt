@@ -2,7 +2,7 @@
 
 Create your custom t-shirt
 
-![ServUs](https://raw.githubusercontent.com/teeaaspoon/servus/master/src/assets/serv-us.gif)
+![T-Shirt Designer](https://github.com/suwignyo/custom-t-shirt/blob/master/src/img/tshirt-demo.gif)
 
 ## Setup
 
